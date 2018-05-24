@@ -5,17 +5,20 @@ This project is suppose to create a list of actors and movies.
 The design of the database is simple, there are two tables one regarding the Directors, and one with the Movies, 
 
 
-Directors Database looks like:
+Movie Database:
 
-Director Name	About	Movies
-Director 1	About Director 1	Movies of Director 1
-Director 2	About Director 2	Movies of Director 2
+|   Movie Name    |  About        |  Release           |
+| --------------- | ------------- | ------------------ |
+|  Movie1 Name    | About Movie1  |  Release of Movie1 |
+|  Movie2 Name    | About Movie2  |  Release of Movie2 |
 
-Movies Database looks like:
+Actor Database:
 
-Movie Name	Director	Release Date
-Movie 1	Director 1	Release Date of Movie 1
-Movie 2	Director 2	Release Date of Movie 2
+|  Actor Name     |  About        | Movies            |
+| --------------- | ------------- | ----------------- |
+|  Actor1 Name    | About Actor1  |  Movies acted in  |
+|  Actor2 Name    | About Actor2  |  Movies acted in  |
+
 
 In orer to run this project the following must be executed:
 
