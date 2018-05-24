@@ -9,15 +9,15 @@ Movie Database:
 
 |   Movie Name    |  About        |  Release           |
 | --------------- | ------------- | ------------------ |
-|  Movie1 Name    | About Movie1  |  Release of Movie1 |
-|  Movie2 Name    | About Movie2  |  Release of Movie2 |
+|  Hangover       | Funny tings   |       2010         |
+|  Hangover 2     | Funnier tings |       2015         |
 
 Actor Database:
 
 |  Actor Name     |  About        | Movies            |
 | --------------- | ------------- | ----------------- |
-|  Actor1 Name    | About Actor1  |  Movies acted in  |
-|  Actor2 Name    | About Actor2  |  Movies acted in  |
+|  Mike Tyson     |    Male       |    Hangover       |
+|  Ed Lee         |    Male       |    Hangover 2     |
 
 
 In orer to run this project the following must be executed:
